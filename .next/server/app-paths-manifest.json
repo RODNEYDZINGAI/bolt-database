@@ -1,0 +1,11 @@
+{
+  "/page": "app/page.js",
+  "/auth/signin/page": "app/auth/signin/page.js",
+  "/auth/signup/page": "app/auth/signup/page.js",
+  "/dashboard/profile/page": "app/dashboard/profile/page.js",
+  "/dashboard/premium/scientific-calculator/page": "app/dashboard/premium/scientific-calculator/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/dashboard/premium/graphing-calculator/page": "app/dashboard/premium/graphing-calculator/page.js",
+  "/dashboard/free/percentage-calculator/page": "app/dashboard/free/percentage-calculator/page.js",
+  "/dashboard/free/basic-calculator/page": "app/dashboard/free/basic-calculator/page.js"
+}
